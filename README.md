@@ -1,7 +1,7 @@
 # skillsportfolio
 
 #Kwaliteiten: wat kan ik goed?
-1.Reflectieopdracht: Terugblik op de informatieavond
+\1.Reflectieopdracht: Terugblik op de informatieavond
 2.Plannen
 
 #Motieven: waar ga en sta ik voor?
